@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<prank name="Alerte-Carte"><timeline><audio id="1"><filepath>01</filepath></audio><audio id="2"><filepath>02</filepath></audio><audio id="3"><filepath>03</filepath></audio><audio id="4"><filepath>04</filepath></audio></timeline><repeat><audio id="1"><filepath>r1</filepath></audio></repeat><interrupt><audio id="1"><filepath>i1</filepath></audio></interrupt></prank>
